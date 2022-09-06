@@ -37,7 +37,7 @@
 82D:\project\bootcamp\js\goit-js-hw-09\node_modules\es-abstract\2018\ObjectCreate.js133067089027819381 0
 84D:\project\bootcamp\js\goit-js-hw-09\node_modules\svgo\plugins\convertShapeToPath.js133067088801274046 0
 98D:\project\bootcamp\js\goit-js-hw-09\node_modules\source-map-support\browser-source-map-support.js133067088681457900 0
-41D:\project\bootcamp\js\goit-js-hw-09\dist133069703921148464 1
+41D:\project\bootcamp\js\goit-js-hw-09\dist133069744152822567 1
 77D:\project\bootcamp\js\goit-js-hw-09\node_modules\string_decoder\package.json133067088698120038 0
 116D:\project\bootcamp\js\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files\file1.txt133067088836444248 0
 96D:\project\bootcamp\js\goit-js-hw-09\node_modules\@swc\helpers\src\_class_private_method_get.mjs133067088912168636 0
@@ -171,7 +171,7 @@
 65D:\project\bootcamp\js\goit-js-hw-09\node_modules\clone\clone.iml133067088735760805 0
 84D:\project\bootcamp\js\goit-js-hw-09\node_modules\es-abstract\2021\HasOwnProperty.js133067088979021890 0
 79D:\project\bootcamp\js\goit-js-hw-09\node_modules\es-abstract\2018\SameValue.js133067089043080463 0
-55D:\project\bootcamp\js\goit-js-hw-09\src\js\02-timer.js133069703914590224 0
+55D:\project\bootcamp\js\goit-js-hw-09\src\js\02-timer.js133069745427106259 0
 83D:\project\bootcamp\js\goit-js-hw-09\node_modules\caniuse-lite\data\features\u2f.js133067089026579916 0
 59D:\project\bootcamp\js\goit-js-hw-09\node_modules\call-bind133067088772954295 1
 90D:\project\bootcamp\js\goit-js-hw-09\node_modules\@nodelib\fs.walk\out\providers\stream.js133067088773860158 0
@@ -187,7 +187,7 @@
 88D:\project\bootcamp\js\goit-js-hw-09\node_modules\@parcel\core\test\PublicBundle.test.js133067088916726505 0
 75D:\project\bootcamp\js\goit-js-hw-09\node_modules\weak-lru-cache\index.d.ts133067088760622016 0
 59D:\project\bootcamp\js\goit-js-hw-09\node_modules\@trysound133067088631357379 1
-58D:\project\bootcamp\js\goit-js-hw-09\src\js\03-promises.js133069654119404238 0
+58D:\project\bootcamp\js\goit-js-hw-09\src\js\03-promises.js133069744142433194 0
 91D:\project\bootcamp\js\goit-js-hw-09\node_modules\caniuse-lite\data\features\will-change.js133067089034051472 0
 70D:\project\bootcamp\js\goit-js-hw-09\node_modules\is-arguments\LICENSE133067088721529080 0
 55D:\project\bootcamp\js\goit-js-hw-09\src\css\common.css133069618152273515 0
@@ -929,7 +929,7 @@
 72D:\project\bootcamp\js\goit-js-hw-09\node_modules\regexp.prototype.flags133067088785205042 1
 91D:\project\bootcamp\js\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\ClassSelector.js133067088786526666 0
 63D:\project\bootcamp\js\goit-js-hw-09\node_modules\msgpackr\dist133067088788141695 1
-58D:\project\bootcamp\js\goit-js-hw-09\dist\03-promises.html133069673571724826 0
+58D:\project\bootcamp\js\goit-js-hw-09\dist\03-promises.html133069723390447053 0
 68D:\project\bootcamp\js\goit-js-hw-09\node_modules\has-symbols\.nycrc133067088684651957 0
 62D:\project\bootcamp\js\goit-js-hw-09\node_modules\resolve-from133067088703624176 1
 94D:\project\bootcamp\js\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-dir-pseudo.js133067088926803713 0
@@ -2030,7 +2030,7 @@
 67D:\project\bootcamp\js\goit-js-hw-09\node_modules\sass\types\logger133067088904218347 1
 74D:\project\bootcamp\js\goit-js-hw-09\node_modules\json5\dist\index.min.mjs133067088787777463 0
 77D:\project\bootcamp\js\goit-js-hw-09\node_modules\es-abstract\2017\IsArray.js133067088987096033 0
-69D:\project\bootcamp\js\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133069673573921415 0
+69D:\project\bootcamp\js\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133069744152802599 0
 67D:\project\bootcamp\js\goit-js-hw-09\node_modules\buffer\AUTHORS.md133067088724095837 0
 95D:\project\bootcamp\js\goit-js-hw-09\node_modules\caniuse-lite\data\features\matchesselector.js133067088989595620 0
 70D:\project\bootcamp\js\goit-js-hw-09\node_modules\source-map\README.md133067088686519125 0
@@ -2983,7 +2983,7 @@
 92D:\project\bootcamp\js\goit-js-hw-09\node_modules\caniuse-lite\data\features\input-number.js133067088980388153 0
 84D:\project\bootcamp\js\goit-js-hw-09\node_modules\node-addon-api\tools\check-napi.js133067088778256826 0
 79D:\project\bootcamp\js\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\si.js133067088928745373 0
-55D:\project\bootcamp\js\goit-js-hw-09\dist\02-timer.html133069673573392215 0
+55D:\project\bootcamp\js\goit-js-hw-09\dist\02-timer.html133069723390486985 0
 84D:\project\bootcamp\js\goit-js-hw-09\node_modules\@parcel\graph\lib\AdjacencyList.js133067088746420879 0
 73D:\project\bootcamp\js\goit-js-hw-09\node_modules\csso\lib\clean\index.js133067088821269280 0
 74D:\project\bootcamp\js\goit-js-hw-09\node_modules\is-number-object\LICENSE133067088706629300 0
@@ -3197,7 +3197,7 @@
 78D:\project\bootcamp\js\goit-js-hw-09\node_modules\fast-glob\out\utils\errno.js133067088760590083 0
 88D:\project\bootcamp\js\goit-js-hw-09\node_modules\es-abstract\2019\SameValueNonNumber.js133067089050408947 0
 109D:\project\bootcamp\js\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.1133067088800994512 0
-71D:\project\bootcamp\js\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133069673573382199 0
+71D:\project\bootcamp\js\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133069723363757699 0
 81D:\project\bootcamp\js\goit-js-hw-09\node_modules\@jridgewell\resolve-uri\LICENSE133067088676437312 0
 109D:\project\bootcamp\js\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_drop.1133067088805055995 0
 109D:\project\bootcamp\js\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133067088815538083 0
@@ -3671,7 +3671,7 @@
 90D:\project\bootcamp\js\goit-js-hw-09\node_modules\es-abstract\2015\IsPropertyDescriptor.js133067089000103957 0
 84D:\project\bootcamp\js\goit-js-hw-09\node_modules\@nodelib\fs.scandir\out\index.d.ts133067088795911995 0
 80D:\project\bootcamp\js\goit-js-hw-09\node_modules\get-symbol-description\.github133067088770766330 1
-76D:\project\bootcamp\js\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133069673573322303 0
+76D:\project\bootcamp\js\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133069723385804379 0
 70D:\project\bootcamp\js\goit-js-hw-09\node_modules\ansi-styles\index.js133067088684721814 0
 104D:\project\bootcamp\js\goit-js-hw-09\node_modules\caniuse-lite\data\features\input-autocomplete-onoff.js133067088979111737 0
 79D:\project\bootcamp\js\goit-js-hw-09\node_modules\get-symbol-description\.nycrc133067088694454650 0
@@ -4554,7 +4554,7 @@
 86D:\project\bootcamp\js\goit-js-hw-09\node_modules\es-abstract\2019\IteratorComplete.js133067089009683075 0
 78D:\project\bootcamp\js\goit-js-hw-09\node_modules\es-abstract\2021\BinaryOr.js133067088902341588 0
 92D:\project\bootcamp\js\goit-js-hw-09\node_modules\es-abstract\2020\ObjectDefineProperties.js133067089028737951 0
-52D:\project\bootcamp\js\goit-js-hw-09\dist\index.html133069673571884568 0
+52D:\project\bootcamp\js\goit-js-hw-09\dist\index.html133069723390467011 0
 71D:\project\bootcamp\js\goit-js-hw-09\node_modules\detect-libc\README.md133067088695548383 0
 87D:\project\bootcamp\js\goit-js-hw-09\node_modules\es-abstract\2021\ByteListBitwiseOp.js133067088916267219 0
 98D:\project\bootcamp\js\goit-js-hw-09\node_modules\@swc\helpers\src\_apply_decorated_descriptor.mjs133067088897741430 0
@@ -5398,7 +5398,7 @@
 81D:\project\bootcamp\js\goit-js-hw-09\node_modules\define-properties\.editorconfig133067088676281069 0
 74D:\project\bootcamp\js\goit-js-hw-09\node_modules\define-properties\.nycrc133067088695079650 0
 80D:\project\bootcamp\js\goit-js-hw-09\node_modules\define-properties\CHANGELOG.md133067088741768475 0
-64D:\project\bootcamp\js\goit-js-hw-09\dist\01-color-switcher.html133069673573392215 0
+64D:\project\bootcamp\js\goit-js-hw-09\dist\01-color-switcher.html133069723390576878 0
 72D:\project\bootcamp\js\goit-js-hw-09\node_modules\@parcel\runtime-js\lib133067088819319372 1
 76D:\project\bootcamp\js\goit-js-hw-09\node_modules\define-properties\index.js133067088721933670 0
 75D:\project\bootcamp\js\goit-js-hw-09\node_modules\csso\lib\replace\index.js133067088824194855 0
@@ -6501,7 +6501,7 @@
 91D:\project\bootcamp\js\goit-js-hw-09\node_modules\@swc\helpers\lib\_wrap_async_generator.js133067088895415439 0
 88D:\project\bootcamp\js\goit-js-hw-09\node_modules\@swc\helpers\lib\_wrap_native_super.js133067088896007345 0
 67D:\project\bootcamp\js\goit-js-hw-09\node_modules\@parcel\codeframe133067088821826926 1
-66D:\project\bootcamp\js\goit-js-hw-09\dist\02-timer.f9388f03.js.map133069703921118474 0
+66D:\project\bootcamp\js\goit-js-hw-09\dist\02-timer.f9388f03.js.map133069723366312870 0
 61D:\project\bootcamp\js\goit-js-hw-09\node_modules\@parcel\css133067088735917070 1
 76D:\project\bootcamp\js\goit-js-hw-09\node_modules\@parcel\css-win32-x64-msvc133067088695860857 1
 64D:\project\bootcamp\js\goit-js-hw-09\node_modules\@parcel\events133067088789816947 1
@@ -7281,9 +7281,9 @@
 63D:\project\bootcamp\js\goit-js-hw-09\node_modules\.bin\sass.ps1133067089166923530 0
 61D:\project\bootcamp\js\goit-js-hw-09\node_modules\.bin\semver133067089166853615 0
 63D:\project\bootcamp\js\goit-js-hw-09\node_modules\.bin\svgo.cmd133067089166853615 0
-72D:\project\bootcamp\js\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133069673565564507 0
-75D:\project\bootcamp\js\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133069673573911397 0
-62D:\project\bootcamp\js\goit-js-hw-09\dist\02-timer.f9388f03.js133069703920968693 0
-65D:\project\bootcamp\js\goit-js-hw-09\dist\03-promises.cd58c9ff.js133069673573362251 0
-67D:\project\bootcamp\js\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133069673565554535 0
-71D:\project\bootcamp\js\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133069673573312327 0
+72D:\project\bootcamp\js\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133069723385624645 0
+75D:\project\bootcamp\js\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133069723366382702 0
+62D:\project\bootcamp\js\goit-js-hw-09\dist\02-timer.f9388f03.js133069723364766108 0
+65D:\project\bootcamp\js\goit-js-hw-09\dist\03-promises.cd58c9ff.js133069744152712757 0
+67D:\project\bootcamp\js\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133069723385654605 0
+71D:\project\bootcamp\js\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133069723385924184 0

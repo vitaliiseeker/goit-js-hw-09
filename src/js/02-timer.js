@@ -54,13 +54,14 @@ function onStart() {
 function timerUpdate() {
 
   if (new Date() >= selectedDate) {
-
     clearInterval(timerId);
+
     refs.dataDays.textContent = "00";
     refs.dataHours.textContent = "00";
     refs.dataMinutes.textContent = "00";
     refs.dataSeconds.textContent = "00";
     timeIsUp.textContent = "Time is up";
+
     return;
   }
 
