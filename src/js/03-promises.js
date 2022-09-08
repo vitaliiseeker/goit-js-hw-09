@@ -11,9 +11,11 @@ function onSubmit(e) {
 
   const { delay, step, amount } = e.currentTarget.elements;
 
-  button.setAttribute("disabled", "disabled");
+//  button.setAttribute("disabled", "disabled");
+  button.disabled = true;
 
-  setTimeout(() => button.removeAttribute("disabled"),
+//  setTimeout(() => button.removeAttribute("disabled"),
+  setTimeout(() => button.disabled = false,
     parseInt(delay.value) + parseInt(step.value) * (amount.value - 1) + 5000);
 
   for (let i = 0; i < amount.value; i += 1) {

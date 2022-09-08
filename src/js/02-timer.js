@@ -13,7 +13,7 @@ const refs = {
   dataSeconds: document.querySelector("span[data-seconds]"),
 }
 
-refs.buttonStart.setAttribute("disabled", "disabled");
+refs.buttonStart.disabled = true;
 refs.timer.insertAdjacentHTML("afterend", `<div class="time-is-up"></div>`);
 
 const timeIsUp = document.querySelector(".time-is-up");
@@ -30,12 +30,11 @@ const options = {
     selectedDate = selectedDates[0];
 
     if (new Date() > selectedDate) {
-      timerUpdate();
       Notify.failure('Please choose a date in the future');
 
     } else {
-      timerUpdate();
-      refs.buttonStart.removeAttribute("disabled");
+      ``
+      refs.buttonStart.disabled = false;
       refs.buttonStart.addEventListener("click", onStart);
     }
   },
@@ -47,33 +46,29 @@ let timerId = null;
 flatpickr("#datetime-picker", options);
 
 function onStart() {
-  timerId = setInterval((timerUpdate), 1000);
-  refs.buttonStart.setAttribute("disabled", "disabled");
+  timerId = setInterval((updateTimer), 1000);
+  refs.buttonStart.disabled = true;
 }
 
-function timerUpdate() {
-
-  if (new Date() >= selectedDate) {
-    clearInterval(timerId);
-
-    refs.dataDays.textContent = "00";
-    refs.dataHours.textContent = "00";
-    refs.dataMinutes.textContent = "00";
-    refs.dataSeconds.textContent = "00";
-    timeIsUp.textContent = "Time is up";
-
-    return;
-  }
-
-  if (timeIsUp) timeIsUp.textContent = "";
-
-  const { days, hours, minutes, seconds } = convertMs(selectedDate - new Date());
-
+function setTimer({ days = "00", hours = "00", minutes = "00", seconds = "00" }) {
   refs.dataDays.textContent = days;
   refs.dataHours.textContent = addLeadingZero(hours);
   refs.dataMinutes.textContent = addLeadingZero(minutes);
   refs.dataSeconds.textContent = addLeadingZero(seconds);
+}
 
+function updateTimer() {
+
+  if (new Date() >= selectedDate) {
+    clearInterval(timerId);
+    timeIsUp.textContent = "Time is up";
+    setTimer({});
+    return;
+  }
+  if (timeIsUp) timeIsUp.textContent = "";
+
+  // const { days, hours, minutes, seconds } = convertMs(selectedDate - new Date());
+  setTimer(convertMs(selectedDate - new Date()));
   colorChange();
 }
 
