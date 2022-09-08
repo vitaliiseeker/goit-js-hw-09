@@ -64,8 +64,7 @@ function updateTimer() {
     timeIsUp.textContent = "Time is up";
     setTimer({});
     return;
-  }
-  if (timeIsUp) timeIsUp.textContent = "";
+  } else timeIsUp.textContent = "";
 
   // const { days, hours, minutes, seconds } = convertMs(selectedDate - new Date());
   setTimer(convertMs(selectedDate - new Date()));
