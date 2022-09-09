@@ -8,10 +8,6 @@ const refs = {
   body: document.querySelector("body"),
   timer: document.querySelector(".timer"),
   buttonStart: document.querySelector("button[data-start]"),
-  dataDays: document.querySelector("span[data-days]"),
-  dataHours: document.querySelector("span[data-hours]"),
-  dataMinutes: document.querySelector("span[data-minutes]"),
-  dataSeconds: document.querySelector("span[data-seconds]"),
 }
 
 refs.buttonStart.disabled = true;
@@ -51,7 +47,6 @@ function onStart() {
 }
 
 function updateTimer() {
-
   if (selectedDate <= new Date()) {
     clearInterval(timerId);
     timeIsUp.textContent = "Time is up";
@@ -66,7 +61,6 @@ function updateTimer() {
 }
 
 function convertMs(ms) {
-
   // Number of milliseconds per unit of time
   const second = 1000;
   const minute = second * 60;
